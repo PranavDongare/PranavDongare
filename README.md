@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [rxjpatil.vercel.app](https://rxjpatil.vercel.app/)
+- 👨‍💻 All of my projects are available at [pranavdongares-projects.vercel.app](https://portfolio-pranavdongares-projects.vercel.app/)
 
-- 💬 Ask me about **Python, Django,  SQL, Web Development**
+- 💬 Ask me about **Python, Django,  SQL, Data Science, Web Development**
 
-- 📫 How to reach me **rxjpatil@gmail.com**
+- 📫 How to reach me **pranavdongare2010@gmail.com**
 
-- 📄 Know about my experiences [Raj's Resume](https://rxjpatil.vercel.app/resume.html)
+- 📄 Know about my experiences [Pranav's Resume](https://portfolio-pranavdongares-projects.vercel.app/resume.html)
 
 
 <h3 align="left">Languages and Tools:</h3>
