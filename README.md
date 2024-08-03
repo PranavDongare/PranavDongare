@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![MasterHead](https://raw.githubusercontent.com/rxjpatil/rxjpatil/main/github7.gif)]()
 <h1 align="center">Hi 👋, I'm Pranav Dongare</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
