@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Web Development with Python**
 
 - 👨‍💻 All of my projects are available at [pranavdongares-projects.vercel.app](https://portfolio-pranavdongares-projects.vercel.app/)
 
-- 💬 Ask me about **Python, Django,  SQL, Data Science, Web Development**
+- 💬 Ask me about **Python,  SQL, Data Science, Web Development**
 
 - 📫 How to reach me **pranavdongare2010@gmail.com**
 
